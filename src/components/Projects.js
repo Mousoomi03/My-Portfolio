@@ -6,7 +6,7 @@ const projects = [
     title: 'Event Management System', 
     tech: ['ASP.NET Core', 'React', 'SQL Server', 'EF Core'], 
     desc: 'A full-featured platform designed to simplify the process of discovering, booking, and managing events.',
-    github: 'https://github.com/IshitaGaur22/Event_Management'
+    github: 'https://github.com/Mousoomi03/Simba-Events-Frontend'
   },
   { 
     title: 'Cafe Finder', 
